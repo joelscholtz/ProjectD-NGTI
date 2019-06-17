@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\raw_keep.xml.flat",
+        "source": "C:\\Users\\joels\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\4d6353bf12321da2238f67f8d950ece8\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\joels\\OneDrive\\Documenten\\new_documents\\School\\Jaar_3\\Project_D\\Unity\\Test_1\\Test_1\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\debug\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\joels\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\4d6353bf12321da2238f67f8d950ece8\\res\\layout\\__arcore_education.xml"
+    }
+]
